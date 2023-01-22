@@ -70,3 +70,23 @@ ul li:hover {
 .gap {
   width: 1rem;
 }
+
+@media screen and (max-width: 650px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  ul li span {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  h1 {
+    font-size: 2.25rem;
+  }
+
+  ul li span {
+    font-size: 1.25rem;
+  }
+}
