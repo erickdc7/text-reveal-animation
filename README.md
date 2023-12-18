@@ -1,4 +1,4 @@
 # Vanilla JavaScript: Text Reveal on Scroll Animation
-### This design belongs to [Conor Bailey](https://www.youtube.com/@ConorBailey), you can see the video [here](https://youtu.be/FWQSYONeIqk).
+### This design is inspired by the work of [Conor Bailey](https://www.youtube.com/@ConorBailey). Click [here](https://youtu.be/FWQSYONeIqk) to watch the video.
 
 ![preview img](/preview.png)
